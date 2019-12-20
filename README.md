@@ -1,1 +1,1 @@
-# ucity-webtooling-automation
+# webtooling-automation
